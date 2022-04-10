@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm CHERIF Hani Salah Eddine</h1>
 <h3 align="center">A passionate JS developer and UI/UX Designer from Algeria</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haany&label=Profile%20views&color=0e75b6&style=flat" alt="agabiyounes" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haany" alt="haany" /></a> </p>
+
+<p align="left"> <a href="https://www.linkedin.com/in/haany/" target="blank"><img src="https://img.shields.io/twitter/follow/haany?logo=twitter&style=for-the-badge" alt="haany" /></a> </p>
+
 - 📝 I regularly write articles on [https://www.linkedin.com/in/haany/](https://www.linkedin.com/in/haany/)
 
 - 💬 Ask me about **React Native,React,HTML,CSS,JavaScript**
