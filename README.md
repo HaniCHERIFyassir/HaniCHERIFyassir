@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm CHERIF Hani Salah Eddine</h1>
 <h3 align="center">A passionate JS developer and UI/UX Designer from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haany&label=Profile%20views&color=0e75b6&style=flat" alt="haany" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HaniCHERIFyassir&label=Profile%20views&color=0e75b6&style=flat" alt="HaniCHERIFyassir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haany" alt="haany" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HaniCHERIFyassir" alt="HaniCHERIFyassir" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/haany/" target="blank"><img src="https://img.shields.io/twitter/follow/haany?logo=twitter&style=for-the-badge" alt="haany" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/HaniCHERIFyassir/" target="blank"><img src="https://img.shields.io/twitter/follow/HaniCHERIFyassir?logo=twitter&style=for-the-badge" alt="HaniCHERIFyassir" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/haany/](https://www.linkedin.com/in/haany/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/HaniCHERIFyassir/](https://www.linkedin.com/in/HaniCHERIFyassir/)
 
 - 💬 Ask me about **React Native,React,HTML,CSS,JavaScript**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/haany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haany" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/HaniCHERIFyassir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="HaniCHERIFyassir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,9 +26,9 @@
 <br/>
 <h3 align="center">Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haany&show_icons=true&show_icons=true&theme=radical" alt="github-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haany&layout=compact&show_icons=true&theme=radical" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HaniCHERIFyassir&show_icons=true&show_icons=true&theme=radical" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniCHERIFyassir&layout=compact&show_icons=true&theme=radical" alt="top-langs" />
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/haany"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="haany" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/haany"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HaniCHERIFyassir" /></a></p><br><br>
