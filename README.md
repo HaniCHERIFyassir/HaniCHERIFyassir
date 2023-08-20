@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HaniCHERIFyassir" alt="HaniCHERIFyassir" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/HaniCHERIFyassir/" target="blank"><img src="https://img.shields.io/twitter/follow/HaniCHERIFyassir?logo=twitter&style=for-the-badge" alt="HaniCHERIFyassir" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/haany/" target="blank"><img src="https://img.shields.io/twitter/follow/haany?logo=twitter&style=for-the-badge" alt="haany" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/HaniCHERIFyassir/](https://www.linkedin.com/in/HaniCHERIFyassir/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/haany/](https://www.linkedin.com/in/haany/)
 
 - 💬 Ask me about **React Native,React,HTML,CSS,JavaScript**
 
